@@ -1,5 +1,6 @@
 # todo-list
 
+## Used technologies 
 NodeJS(Express) / EJS / MongoDB(Mongoose) / MongoDB Atlas
 
 Live link https://dull-tan-kingfisher-toga.cyclic.app/
