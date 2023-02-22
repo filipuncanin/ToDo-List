@@ -1,4 +1,4 @@
-# todo-list
+# ToDo List
 
 ## Used technologies 
 NodeJS(Express) - for functionality<br>
