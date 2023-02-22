@@ -9,6 +9,4 @@ Live link https://dull-tan-kingfisher-toga.cyclic.app/
 <li>MongoDB Atlas - hosting databases</li>
 <br>
 
-<img width="332" alt="Screenshot 2023-02-22 170235" src="https://user-images.githubusercontent.com/125278159/220682694-feb51cba-71ee-4669-8b63-6ce4b0b717ce.png">
-
-
+<img width="500" alt="Screenshot 2023-02-22 171722" src="https://user-images.githubusercontent.com/125278159/220687912-4f34de08-0339-40a0-b7dd-fcc9c4647257.png">
