@@ -1,7 +1,6 @@
 # ToDo List
 
 Live link https://dull-tan-kingfisher-toga.cyclic.app/
-#
 
 ## Used technologies 
 NodeJS(Express) - for functionality<br>
