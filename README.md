@@ -8,7 +8,7 @@ Live link https://dull-tan-kingfisher-toga.cyclic.app/
 <li>MongoDB(Mongoose)- managing databases</li>
 <li>MongoDB Atlas - hosting databases</li>
 
-## Another functionality
+## Additional functionality
 To create new todo list add /list_name to the link and you will be redirected to todo list with name you provided in link
 <br>
 <br>
