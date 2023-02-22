@@ -1,10 +1,10 @@
 # todo-list
 
 ## Used technologies 
-NodeJS(Express) - for functionality
-EJS - rendering pages
-MongoDB(Mongoose)- managing databases
-MongoDB Atlas - hosting databases
+NodeJS(Express) - for functionality<br>
+EJS - rendering pages<br>
+MongoDB(Mongoose)- managing databases<br>
+MongoDB Atlas - hosting databases<br>
 
 Live link https://dull-tan-kingfisher-toga.cyclic.app/
 
